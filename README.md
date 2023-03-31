@@ -22,7 +22,7 @@ This video from my YouTube channel can give you an overview on how to start your
 
 I Became a Data Analyst with ZERO Experience 👉🏻 https://www.youtube.com/watch?v=1WN3-4YIINI
 
-### HOLISTIC CERTIFICATE
+### Holistic Certificate
 
 The **best beginner course** if you are starting out, the most popular and recognized one, which will give you a solid foundation about Data Analytics, without going into much details on the different topics:
 
@@ -44,15 +44,15 @@ Full Project in Excel | Excel Tutorials for Beginners 👉🏻 https://youtu.be/
 
 ## 🚀 Let's increase the difficulty (Medium level)
 
-### HOLISTIC CERTIFICATE
+### Holistic Certificate
 
 Another holistic course that **will cover the basics in more details**, is the one offered by IBM
 
 🔗 IBM Data Analyst Certification 👉🏻 http://imp.i384100.net/2
 
-### TOOL-BASED CERTIFICATES
+### Tool-Based Certificates
 
-**EXCEL**
+**Excel**
 
 🔗 Master Excel 👉🏻 http://imp.i384100.net/4
 
@@ -70,7 +70,7 @@ Another holistic course that **will cover the basics in more details**, is the o
 
 🔗 Data Visualization with PowerBI 👉🏻 http://imp.i384100.net/8
 
-### DATA PROJECTS
+### Medium Data Projects
 
 How I find projects as a Data Analyst 👉🏻 https://www.youtube.com/watch?v=NQSe-SuykJU&t=311s
 
@@ -82,23 +82,23 @@ The ONLY Data Analytics Portfolio Project You Need - Walkthrough 👉🏻 https:
 
 ## 🥊 Challenge yourself with harder resources (Expert level)
 
-### ADVANCED EXCEL
+### Advanced Excel
 
 This Excel Tutorial full course will help you to write functions, sort, and filter data, how to import data and split data into multiple columns, learn about sumif and countif functions, and many more functions and formulas available in Microsoft Excel.
 
 Advanced Excel Full Course 2022 | Advanced Excel Functions | MS Excel 19 Training | Simplilearn 👉🏻 https://www.youtube.com/watch?v=RkQl2wVpQAo
 
-### ADVANCED SQL
+### Advanced SQL
 
 As SQL remains the most in-demand skill for data analysts, it is worth it to bring it to the next level. Check out the whole YouTube playlist to bring your SQL to the next level…
 
 Advanced SQL Tutorials 👉🏻 https://www.youtube.com/playlist?list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU
 
-### MASTER DATA VISUALIZATION
+### Master Data Visualization
 
-Transform your Data into STUNNING Visual 👉🏻 https://youtu.be/SyWDBr_4sgg
+Transform your Data into Stunning Visual 👉🏻 https://youtu.be/SyWDBr_4sgg
 
-### DATA PROJECTS
+### Hard Data Projects
 
 A Python project in your portfolio is not essential, but definitely good if you want to show your versatility to more technical data analytics skills that might be required in the work place.
 
