@@ -8,8 +8,6 @@ Made with ♥️ by Lore So What & Datapizza Team
 
 > Ciao guys, I’m Lore and with this guide my aim is to remove the fluff and give you the **fundamental skills and resources** required to start your Data Analytics journey 🚀
 
-Enjoy!
-
 **The guide is divided into 3 categories of resources, based on the difficulty level:**
 
 - **Beginner**
