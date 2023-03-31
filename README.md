@@ -30,9 +30,9 @@ The **best beginner course** if you are starting out, the most popular and recog
 
 ### Data Portfolio Basics
 
-> Before you go into the more advanced resources online, make sure you understand the basics of a data analytics portfolio. 
+Before you go into the more advanced resources online, make sure you understand the basics of a data analytics portfolio. 
 
-The reason is simple: while you have to start putting concepts into practice so that you can showcase your skills. A certificate is good but a project in your portfolio is what will make you stand out from the crowd…
+> The reason is simple: while you have to start putting concepts into practice so that you can showcase your skills. A certificate is good but a project in your portfolio is what will make you stand out from the crowd…
 
 ALL YOU NEED to build your data analytics portfolio 👉🏻 https://youtu.be/0jIPrbsLCqw
 
@@ -52,19 +52,11 @@ Another holistic course that **will cover the basics in more details**, is the o
 
 ### Tool-Based Certificates
 
-**Excel**
-
 🔗 Master Excel 👉🏻 http://imp.i384100.net/4
-
-**SQL**
 
 🔗 Learn SQL Basics 👉🏻 http://imp.i384100.net/5
 
-**Python**
-
 🔗 Python for Everybody 👉🏻 http://imp.i384100.net/6
-
-**Data Visualization**
 
 🔗 Data Visualization with Tableau 👉🏻 http://imp.i384100.net/7
 
